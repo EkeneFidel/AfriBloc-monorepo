@@ -2,6 +2,12 @@
 
 Democratizing African Real Estate Investment
 
+## Certificate
+[View Certificate](https://drive.google.com/file/d/1hqU-KSBP_fu7bpYkHe77gF_u8MC4IqMa/view?usp=drivesdk)
+
+## Pitch Deck
+[View Pitch Deck](https://drive.google.com/file/d/13i8nwvz6_BDuip4PA3qvVIXacLE6jsn4/view?usp=drivesdk)
+
 ## Track
 
 Onchain Finance & Real-World Assets (RWA)
